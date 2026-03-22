@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.theia/
+.gradio/
+document_cache/
+app.log
+.DS_Store
+*.pem
+.env
+
+
+
+
+
